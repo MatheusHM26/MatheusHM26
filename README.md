@@ -1,0 +1,3 @@
+- 👋 Olá, eu sou Matheus Henrique, estudante da Alura (https://www.alura.com.br)
+- 👀 Tenho bastante interesse em tudo que envolva programação, informática, etc.
+- 🌱 Atualmente estou aprendendo três linguagens de programação, através da alura: JavaScript, HTML5 e CSS5.
